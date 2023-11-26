@@ -1,2 +1,3 @@
-# ads
-Repositório com aplicações da faculdade
+# Analise e desenvolvimento de sistemas
+
+Repositório com aplicações da faculdade.
